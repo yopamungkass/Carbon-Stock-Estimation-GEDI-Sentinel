@@ -25,6 +25,8 @@ To upscale discrete GEDI biomass samples into a continuous spatial map to monito
 ![Carbon Map Result](result_map1.png)
 ![Regression Plot](regresi_ndvi.png)
 ![Correlation Heatmap](korelasi.png)
+![GEDI_LiDAR](result_map2.png)
+![Sentinel_RGB](result_map3.png)
 
 * **Note**: This is a personal experimental project for learning purposes only. The results are intended to demonstrate the code pipeline, not for scientific use.
 * **Validation:** The model successfully identifies high-density carbon areas (intact forest) vs. low-density areas (degraded land/open canopy).
