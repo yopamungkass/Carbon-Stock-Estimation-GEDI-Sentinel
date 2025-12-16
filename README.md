@@ -1,7 +1,7 @@
 # Carbon Stock Estimation using GEDI & Sentinel-2
 
 ## 📌 Project Overview
-This project performs spatial estimation of **Aboveground Carbon Stock** in the **Hutan Harapan Restoration Ecosystem (Jambi, Indonesia)**. By fusing sparse LiDAR data from **NASA GEDI** (Global Ecosystem Dynamics Investigation) with continuous optical imagery from **Sentinel-2**, this project produces a high-resolution (10m) carbon density map.
+This project performs spatial estimation of **Aboveground Carbon Stock** in the **Hutan Harapan Restoration Ecosystem (study area around PT REKI Base Camp Hutan Harapan Jambi and South Sumatra, Indonesia)**. By fusing sparse LiDAR data from **NASA GEDI** (Global Ecosystem Dynamics Investigation) with continuous optical imagery from **Sentinel-2**, this project produces a high-resolution (10m) carbon density map.
 
 ## 🎯 Objective
 To upscale discrete GEDI biomass samples into a continuous spatial map to monitor forest health and degradation in tropical restoration areas.
